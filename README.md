@@ -1,6 +1,6 @@
 # dRoller
 A classic Dice Roller for TTRPG's like "Dungeons and Dragons" and "Dungeon Crawl Classics". Choose what dice and how many and roll them!
-I actually cared about assembly this time, so you should be able to assemble it pretty easily. :)
+I actually cared about assembly this time, so you should be able to assemble it pretty easily. :) This is a work-in-progress, especially with the firmware.
 
 <img width="746" height="772" alt="Screenshot 2026-11-08 183516" src="https://github.com/user-attachments/assets/c63b097e-e022-4a18-a617-060605b3ba0b" />
 <img width="440" height="313" alt="Screenshot 2026-11-08 183800" src="https://github.com/user-attachments/assets/a73d8dc7-10e6-4da9-8eeb-b9de06dc45c6" />
